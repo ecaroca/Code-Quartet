@@ -30,4 +30,7 @@ Pasos próximos:
 -
 
 Resgistro de IA:
--
+## ⚙️ Versión de la IA utilizada
+- **Modelo**: ChatGPT **GPT-5**  
+- **Proveedor**: OpenAI  
+- **Fecha de generación**: Septiembre 2025 
