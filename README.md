@@ -17,7 +17,8 @@ Roles de los Integrantes:
 -
 
 Descripción de las funcionalidades:
-...
+-
+
 
 Avances hasta la fecha:
 -
@@ -26,3 +27,7 @@ Avances hasta la fecha:
 -
 
 Pasos próximos:
+-
+
+Resgistro de IA:
+-
