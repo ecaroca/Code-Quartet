@@ -11,10 +11,10 @@ El proyecto aborda la dificultad de aprender métodos numéricos de forma práct
 -
 
 ## Roles de los Integrantes:
--**Esteban Caroca Sánchez**: Programador
--**Acza Riffo Jamett**:
--**Sebastián Sanchez**:
--**Maximiliano Lazo**:
+- **Esteban Caroca Sánchez**: Programador
+- **Acza Riffo Jamett**:
+- **Sebastián Sanchez**:
+- **Maximiliano Lazo**:
 
 ## Descripción de las funcionalidades:
 -
