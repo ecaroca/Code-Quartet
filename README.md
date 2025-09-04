@@ -18,7 +18,7 @@ Este proyecto implementa una **suite matemática en C/C++** que permite resolver
 - Realizar cambios y mejoras para pulir el prototipo inicial obteniendo una versión más avanzada para que calcule operaciones más complejas.
 - ...
 - ...
-- Desarrollar una interfaz de usuario básica en C++ para interactuar con todas las funcionalidades.
+- Desarrollar una interfaz de usuario básica en **C++** para interactuar con todas las funcionalidades.
 
 ## 📍 Roles de los Integrantes:
 - **Esteban Caroca Sánchez**: Programador
