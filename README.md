@@ -49,9 +49,7 @@ Este proyecto implementa una **suite matemática en C/C++** que permite resolver
 - Como primera instancia, se tenían los principales códigos del proyecto en el lenguage **C++**, pues bajo la autorización del profesor, se solicitó la reutilización del proyecto del año pasado de uno de los integrantes del equipo. A este programa se le implementarán sus debidos cambios y mejoras para su eficaz ejecución. Con esto en mente, para agilizar la realización del proyecto, se le pidió a ChatGPT que traduzca los archivos en formato .cpp a .c, pues el prototipo a enviarse requiere que esté en el lenguaje **C**; se probarán los códigos en dicho formato y se realizarán los cambios, mejoras y agregados a medida que como equipo, se avance en el desarrollo del programa.
  
 - **Ejemplo del prompt utilizado:**
-- "Necesito que crees este programa en c, entregame los archivos, ecto: a herramienta permitirá resolver ecuaciones y sistemas no lineales simples, además de graficar integrales, límites y otros conceptos matemáticos.
-
-Genera una interfaz de con cada numero, ejemplo:
+- "Necesito que crees este programa en c, entregame los archivos, ecto: a herramienta permitirá resolver ecuaciones y sistemas no lineales simples, además de graficar integrales, límites y otros conceptos matemáticos. Genera una interfaz de con cada numero, ejemplo:
 
 1. Calculadora
 2. Matriz
