@@ -10,7 +10,7 @@ Este proyecto implementa una **suite matemática en C/C++** que permite resolver
 - Representación de funciones mediante **gráficos ASCII** en consola. 
 
 ## 📍 Objetivo General del proyecto:
-- Los estudiantes resolverán problemas y ejercicios tanto básicos como complejos en torno a la matemática de manera más práctica y sencilla.
+- Los estudiantes resolverán problemas y ejercicios tanto básicos como complejos en torno a la matemática de manera más práctica y sencilla, adquiriendo un mayor conocimiento de la materia.
 - 
 
 ## 📍 Objetivos Específicos:
