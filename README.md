@@ -17,7 +17,7 @@ Este proyecto implementa una **suite matemática en C/C++** que permite resolver
   
 - Implementar en código, operaciones básicas, límites, derivadas, integrales y matrices, para que el usuario desde el menú, escoja la operación a realizar.
  
-- Diseñar una función que permita graficar algunas funciones y que le usuario escoja desde el menú las que está disponibles para graficar.
+- Diseñar una función que permita graficar algunas funciones y que el usuario escoja desde el menú las que están disponibles para graficar.
 
 ## 📍 Roles de los Integrantes:
 - **Esteban Caroca Sánchez**: Programador
