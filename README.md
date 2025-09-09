@@ -10,15 +10,14 @@ Este proyecto implementa una **suite matemática en C/C++** que permite resolver
 - Representación de funciones mediante **gráficos ASCII** en consola. 
 
 ## 📍 Objetivo General del proyecto:
-- Los estudiantes resolverán problemas y ejercicios tanto básicos como complejos en torno a la matemática de manera más práctica y sencilla, adquiriendo un mayor conocimiento de la materia.
-- 
+- Potenciar  la autonomía de los estudiantes de enseñanza media con respecto a la resolución de problemas, ejercicios y métodods matemáticos tanto básicos, como de mayor complejidad, adquiriendo un mayor conocimiento de la materia relacionada.
 
 ## 📍 Objetivos Específicos:
-- Traducir códigos de **C++** a **C** y obtener un prototipo inicial que calcule operaciones básicas.
-- Realizar cambios y mejoras para pulir el prototipo inicial obteniendo una versión más avanzada para que calcule operaciones más complejas.
-- ...
-- ...
-- Desarrollar una interfaz de usuario básica en **C++** para interactuar con todas las funcionalidades.
+- Crear un prototipo en código que entregue un menú con opciones de las operaciones que desea realizar el usuario.
+  
+- Implementar en código, operaciones básicas, límites, derivadas, integrales y matrices, para que el usuario desde el menú, escoja la operación a realizar.
+ 
+- Diseñar una función que permita graficar algunas funciones y que le usuario escoja desde el menú las que está disponibles para graficar.
 
 ## 📍 Roles de los Integrantes:
 - **Esteban Caroca Sánchez**: Programador
