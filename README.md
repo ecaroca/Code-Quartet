@@ -22,8 +22,8 @@ Este proyecto implementa una **suite matemática en C/C++** que permite resolver
 ## 📍 Roles de los Integrantes:
 - **Esteban Caroca Sánchez**: Programador/Documentación
 - **Acza Riffo Jamett**: Estructura del proyecto(interfaz)/Documentación
-- **Sebastián Sanchez**:
-- **Maximiliano Lazo**:
+- **Sebastián Sanchez**: Tester del programa
+- **Maximiliano Lazo**:  Encargado del repositorio Github
 
 # 📍 Descripción de las funcionalidades:
 ## Suite Matemática en C (Consola)
