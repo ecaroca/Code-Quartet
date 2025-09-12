@@ -91,6 +91,9 @@ En las opciones que requieren una función `f(x)`, podrás elegir entre:
 - **Sistemas 2x2**: dos sistemas de ejemplo con Jacobiano analítico.
 - **Gráficos ASCII**: malla `width x height` (por defecto 80x25) con ejes si el rango incluye 0.
 
+## 📍 Avances hasta la fecha:
+- 
+
 ## Extensiones sugeridas
 - Agregar parser de expresiones (por ejemplo, `muparser` u otro) para funciones arbitrarias.
 - Exportar datos (`x,f(x)`) a CSV y graficar con `gnuplot`.
@@ -101,4 +104,4 @@ En las opciones que requieren una función `f(x)`, podrás elegir entre:
 MIT
 
 ## 📍 Pasos próximos (Hito 2):
-- Diseñar una interfaz para el programa y que este permita al usuario un uso más fluido de las operaciones disponibles.
+- Diseñar una interfaz para el programa (QT) y que este permita al usuario un uso más fluido de las operaciones disponibles.
