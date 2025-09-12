@@ -105,3 +105,5 @@ MIT
 
 ## 📍 Pasos próximos (Hito 2):
 - Diseñar una interfaz para el programa (QT) y que este permita al usuario un uso más fluido de las operaciones disponibles.
+
+## 📍 Anexos/Referencias
