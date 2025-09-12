@@ -50,3 +50,7 @@
 **`main.c`**
 -   **¿Qué hace?** Es la interfaz de usuario. Une todos los módulos anteriores en un menú interactivo por consola.
 -   **Prompt:** *"Necesito un programa principal con un menú que permita al usuario elegir entre todas las operaciones de la suite. Debe tener submenús para la calculadora, matrices, cálculo, ecuaciones, sistemas y gráficos. Tiene que leer las opciones del usuario, llamar a las funciones correctas de los otros módulos y mostrar los resultados de forma amigable."*
+
+## 🔎 Observaciones
+-  **Rol del dasarrollador** El proceso no fue automático. Se requirió de un diseño cuidadoso de la arquitectura y lógica de programación (qué archivos, qué funciones, cómo interactúan) por parte de la persona que desarrolló el prompt. La IA actuó como un asistente muy competente que implementó especificaciones precisas dadas por la persona.
+-  **Importancia de los prompts detallados:** La calidad del output está directamente ligada a la calidad del input. Prompts "vagos" o simples/no específicos generan código incorrecto, incompleto o inseguro. Los prompts para este proyecto fueron extremadamente específicos, detallando nombres de funciones, parámetros, estructuras de datos y comportamientos exactos.
