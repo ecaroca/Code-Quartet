@@ -107,3 +107,11 @@ MIT
 - Diseñar una interfaz para el programa (QT) y que este permita al usuario un uso más fluido de las operaciones disponibles.
 
 ## 📍 Anexos/Referencias
+### Referencias Bibliográficas
+- Las siguientes referencias bibliográficas fueron utilizadas tanto como para tener una mejor idea sobre cómo hacer los prompts, como para "alimentar" a la IA sobre las distintas operaciones matemáticas que se querían realizar en código, facilitando así, las creación de estos"
+
+- *Métodos Numéricos: Teoría, práctica y aplicaciones (2da Edición) - Antonio Huerta Cerezuela*
+  
+- *Numerical Analysis (9na Edición) - Richard L. Burden y J. Douglas Faires* (este libro si bien sé encontró en español(7ma edición) no se veía muy bien, por lo tanto se utilizó esta versión en inglés)
+  
+- *Programación en C: Metodología, algoritmos y estructura de datos - Luis Joyanes Aguilar y Ignacio Zahonero Martinez.*
