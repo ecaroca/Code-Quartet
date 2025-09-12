@@ -91,6 +91,9 @@ En las opciones que requieren una función `f(x)`, podrás elegir entre:
 - **Sistemas 2x2**: dos sistemas de ejemplo con Jacobiano analítico.
 - **Gráficos ASCII**: malla `width x height` (por defecto 80x25) con ejes si el rango incluye 0.
 
+## Registro de Cambios
+- No  se han hecho cambios en el código hasta la fecha.
+
 ## 📍 Avances hasta la fecha:
 - 
 
