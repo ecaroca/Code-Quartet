@@ -82,7 +82,7 @@ En las opciones que requieren una función `f(x)`, podrás elegir entre:
 5. `x^2`  
 6. `x^3 - x - 2`  
 
-## Notas técnicas
+## ✍️ Notas técnicas
 - Las rutinas de **matrices** usan eliminación Gaussiana con pivoteo parcial (determinante, resolver `Ax=b`) y Gauss‑Jordan (inversa).
 - **Límites**: evalúan `f(a±h)` con pasos decrecientes hasta estabilizar.
 - **Derivadas**: diferencias finitas centrales `f'(x0) ≈ (f(x0+h)-f(x0-h))/(2h)`.
@@ -107,7 +107,7 @@ MIT
 - Diseñar una interfaz para el programa (QT) y que este permita al usuario un uso más fluido de las operaciones disponibles.
 
 ## 📍 Anexos/Referencias
-### Referencias Bibliográficas
+### 📖 Referencias Bibliográficas
 - Las siguientes referencias bibliográficas fueron utilizadas tanto como para tener una mejor idea sobre cómo hacer los prompts, como para "alimentar" a la IA sobre las distintas operaciones matemáticas que se querían realizar en código, facilitando así, las creación de estos"
 
 - *Métodos Numéricos: Teoría, práctica y aplicaciones (2da Edición) - Antonio Huerta Cerezuela*
