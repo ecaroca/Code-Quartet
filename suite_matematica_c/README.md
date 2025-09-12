@@ -8,7 +8,7 @@ Este proyecto implementa una **suite matemática en C/C++** que permite resolver
 - Cálculo de **límites, derivadas e integrales** por métodos numéricos.  
 - Resolución de **ecuaciones y sistemas no lineales**.  
 - Representación de funciones mediante **gráficos ASCII** en consola.
-- 
+
 ## 📍 Objetivo General del proyecto:
 - Potenciar  la autonomía de los estudiantes de enseñanza media con respecto a la resolución de problemas, ejercicios y métodos matemáticos tanto básicos, como de mayor complejidad, adquiriendo un mayor conocimiento de la materia relacionada.
 
@@ -99,3 +99,6 @@ En las opciones que requieren una función `f(x)`, podrás elegir entre:
 
 ## Licencia
 MIT
+
+## 📍 Pasos próximos (Hito 2):
+- Diseñar una interfaz para el programa y que este permita al usuario un uso más fluido de las operaciones disponibles.
