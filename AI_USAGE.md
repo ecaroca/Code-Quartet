@@ -33,7 +33,7 @@
 -   **¿Qué hace?** Encuentra raíces (puntos donde f(x)=0) usando los métodos de **isección** y **Newton-Raphson** (fue investigado). También resuelve sistemas de ecuaciones no lineales en 2D.
 -   **Prompt:** *"Necesito un archivo para encontrar ceros de funciones. Debe tener dos métodos: 1) Bisección, que parte un intervalo a la mitad hasta encontrar la raíz. 2) Newton, que usa derivadas para converger más rápido. Además, debe poder resolver sistemas de dos ecuaciones no lineales (como un círculo y una exponencial) usando el método de Newton para sistemas."*
 
-#### 5. Álgebra Linear (Matrices y Vectores)
+#### 5. Álgebra Linear (Matrices y vectores)
 
 **`matrix.h` / `matrix.c`**
 -   **¿Qué hace?** Define estructuras de datos para matrices y vectores, y todas las operaciones asociadas: suma, multiplicación, determinante, inversa y resolución de sistemas de ecuaciones lineales.
