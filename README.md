@@ -131,7 +131,6 @@ El desarrollo de la suite matemática se encuentra en un estado **avanzado y fun
 - Integración completa de todos los módulos mediante un sistema de menús jerárquicos.
 - Flujo robusto con manejo de entradas incorrectas y pausas para mejorar la experiencia de usuario.
 
-**El proyecto es completamente funcional y puede ser compilado y utilizado para realizar las operaciones matemáticas descritas.**
 
 ## Extensiones sugeridas
 - Agregar parser de expresiones (por ejemplo, `muparser` u otro) para funciones arbitrarias.
