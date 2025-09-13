@@ -91,15 +91,11 @@ En las opciones que requieren una función `f(x)`, podrás elegir entre:
 - **Sistemas 2x2**: dos sistemas de ejemplo con Jacobiano analítico.
 - **Gráficos ASCII**: malla `width x height` (por defecto 80x25) con ejes si el rango incluye 0.
 
-## Registro de Cambios
+##💡 Registro de Cambios
 - No  se han hecho cambios en el código hasta la fecha.
 
 ## 📍 Avances hasta la fecha:
-# 📈 Avances hasta la Fecha / Estado del Proyecto
-
 El desarrollo de la suite matemática se encuentra en un estado **avanzado y funcional**. A la fecha, se han completado e integrado exitosamente los siguientes módulos:
-
-## ✅ Módulos Completados y Funcionales:
 
 ### 🧮 Calculadora Básica (`calculator.c`)
 - Operaciones aritméticas fundamentales: suma, resta, multiplicación y división.
@@ -112,12 +108,12 @@ El desarrollo de la suite matemática se encuentra en un estado **avanzado y fun
 - Implementación de operaciones algebraicas: Suma y multiplicación de matrices.
 - **Operaciones avanzadas:** Cálculo del determinante, obtención de la matriz inversa y resolución de sistemas de ecuaciones lineales **Ax = b** mediante eliminación gaussiana con pivotaje parcial.
 
-### ∫ Cálculo Numérico (`calculus.c`)
+### 📐 Cálculo Numérico (`calculus.c`)
 - Cálculo aproximado de **Límites** por izquierda y derecha.
 - **Derivación numérica** utilizando el método de la diferencia central.
 - **Integración numérica** mediante la Regla de Simpson compuesta.
 
-### = Resolución de Ecuaciones (`equations.c`)
+### 🟰 Resolución de Ecuaciones (`equations.c`)
 - Búsqueda de raíces de ecuaciones no lineales con una variable:
   - **Método de Bisección**
   - **Método de Newton-Raphson** (con derivada numérica)
