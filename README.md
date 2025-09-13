@@ -67,7 +67,7 @@ Herramienta educativa en C que permite:
 8) Gráficos ASCII de f(x)
 0) Salir
 ```
-## Prueba ejemplo
+## Prueba ejemplo Menú
 ![Menú](https://github.com/ecaroca/Code-Quartet/blob/main/IMG-20250912-WA0021%5B1%5D.jpg)
 
 En las opciones que requieren una función `f(x)`, podrás elegir entre:
