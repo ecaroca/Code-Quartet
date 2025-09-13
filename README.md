@@ -40,21 +40,15 @@ Herramienta educativa en C que permite:
 
 > Todo funciona en **consola** (terminal) y sólo requiere `gcc` y `libm` (math).
 
-## Compilación
-
-```bash
-make
-# generará el binario ./math_suite
-```
-
-Ó, sin Makefile:
-```bash
-gcc -O2 -std=c11 -Wall -Wextra -Isrc -Iinclude \
-  src/main.c src/calculator.c src/matrix.c src/calculus.c src/equations.c src/plot.c src/functions.c \
-  -lm -o math_suite
-```
-
 ## Ejecución
+- **1.** Se descargar la carpeta zip del Github
+- **2.** Extraer archivo zip
+- **3.** Abrir en visual studio la carpeta llamada suite_matematica_c
+- **4.** En el terminal ejecutar con el comando ./math_suite
+- **5.** En caso de permiso denegado del programa, utilizar comando: chmod +x math_suite.
+- **6.** Luego nuevamente ./math_suite
+
+
 
 ```bash
 ./math_suite
