@@ -94,7 +94,7 @@ En las opciones que requieren una función `f(x)`, podrás elegir entre:
 ##💡 Registro de Cambios
 - No  se han hecho cambios en el código hasta la fecha.
 
-## 📍 Avances hasta la fecha:
+# 📍 Avances hasta la fecha:
 El desarrollo de la suite matemática se encuentra en un estado **avanzado y funcional**. A la fecha, se han completado e integrado exitosamente los siguientes módulos:
 
 ### 🧮 Calculadora Básica (`calculator.c`)
