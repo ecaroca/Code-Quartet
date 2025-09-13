@@ -95,7 +95,49 @@ En las opciones que requieren una función `f(x)`, podrás elegir entre:
 - No  se han hecho cambios en el código hasta la fecha.
 
 ## 📍 Avances hasta la fecha:
-- 
+# 📈 Avances hasta la Fecha / Estado del Proyecto
+
+El desarrollo de la suite matemática se encuentra en un estado **avanzado y funcional**. A la fecha, se han completado e integrado exitosamente los siguientes módulos:
+
+## ✅ Módulos Completados y Funcionales:
+
+### 🧮 Calculadora Básica (`calculator.c`)
+- Operaciones aritméticas fundamentales: suma, resta, multiplicación y división.
+- Cálculo de potencias y raíz cuadrada.
+- Integrado al menú principal con manejo básico de errores (división por cero, raíz de número negativo).
+
+### 📊 Operaciones con Matrices (`matrix.c`)
+- Creación, liberación de memoria y manejo de estructuras `Matrix` y `Vector`.
+- Lectura e impresión de matrices y vectores desde la consola.
+- Implementación de operaciones algebraicas: Suma y multiplicación de matrices.
+- **Operaciones avanzadas:** Cálculo del determinante, obtención de la matriz inversa y resolución de sistemas de ecuaciones lineales **Ax = b** mediante eliminación gaussiana con pivotaje parcial.
+
+### ∫ Cálculo Numérico (`calculus.c`)
+- Cálculo aproximado de **Límites** por izquierda y derecha.
+- **Derivación numérica** utilizando el método de la diferencia central.
+- **Integración numérica** mediante la Regla de Simpson compuesta.
+
+### = Resolución de Ecuaciones (`equations.c`)
+- Búsqueda de raíces de ecuaciones no lineales con una variable:
+  - **Método de Bisección**
+  - **Método de Newton-Raphson** (con derivada numérica)
+- Resolución de **sistemas de ecuaciones no lineales (2x2)** mediante el método de Newton para sistemas. Se incluyen dos sistemas predefinidos para pruebas.
+
+### 📈 Gráficos ASCII (`plot.c`)
+- Visualización de funciones en el dominio de la terminal.
+- Generación de gráficos con ejes coordenados y puntos representados por asteriscos `*`.
+- Personalización del rango de visualización (`xmin`, `xmax`) y tamaño del gráfico.
+
+### 🔧 Catálogo de Funciones (`functions.c`)
+- Biblioteca central con 6 funciones predefinidas para evaluar (`sin(x)`, `cos(x)`, `exp(x)`, `ln(x)`, `x²`, `x³-x-2`).
+- Manejo de errores (ej: devuelve `NAN` para `ln(x)` donde `x <= 0`).
+
+### 🎛️ Menú Principal e Integración (`main.c`)
+- Interfaz de consola interactiva y amigable.
+- Integración completa de todos los módulos mediante un sistema de menús jerárquicos.
+- Flujo robusto con manejo de entradas incorrectas y pausas para mejorar la experiencia de usuario.
+
+**El proyecto es completamente funcional y puede ser compilado y utilizado para realizar las operaciones matemáticas descritas.**
 
 ## Extensiones sugeridas
 - Agregar parser de expresiones (por ejemplo, `muparser` u otro) para funciones arbitrarias.
