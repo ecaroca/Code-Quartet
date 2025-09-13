@@ -115,8 +115,6 @@ El desarrollo de la suite matemática se encuentra en un estado **avanzado y fun
 
 ### 🟰 Resolución de Ecuaciones (`equations.c`)
 - Búsqueda de raíces de ecuaciones no lineales con una variable:
-  - **Método de Bisección**
-  - **Método de Newton-Raphson** (con derivada numérica)
 - Resolución de **sistemas de ecuaciones no lineales (2x2)** mediante el método de Newton para sistemas. Se incluyen dos sistemas predefinidos para pruebas.
 
 ### 📈 Gráficos ASCII (`plot.c`)
