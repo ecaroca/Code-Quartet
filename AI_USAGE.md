@@ -1,4 +1,4 @@
-# ⚙️ Resgistro de IA:
+# ⚙️ Resgistro de IA: Hito 1 🥇
 ## 📍 Versión de la IA utilizada
 - **Modelo**: ChatGPT **GPT-5**  
 - **Proveedor**: OpenAI  
@@ -54,3 +54,5 @@
 ## 🔎 Observaciones
 -  **Rol del dasarrollador** El proceso no fue automático. Se requirió de un diseño cuidadoso de la arquitectura y lógica de programación (qué archivos, qué funciones, cómo interactúan) por parte de la persona que desarrolló el prompt. La IA actuó como un asistente muy competente que implementó especificaciones precisas dadas por la persona.
 -  **Importancia de los prompts detallados:** La calidad del output está directamente ligada a la calidad del input. Prompts "vagos" o simples/no específicos generan código incorrecto, incompleto o inseguro. Los prompts para este proyecto fueron extremadamente específicos, detallando nombres de funciones, parámetros, estructuras de datos y comportamientos exactos.
+
+# ⚙️ Resgistro de IA: Hito 2🥈
