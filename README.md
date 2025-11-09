@@ -151,7 +151,7 @@ MIT
 - *Programación en C: Metodología, algoritmos y estructura de datos - Luis Joyanes Aguilar y Ignacio Zahonero Martinez.*
 
 
-## 📍Hito 2
+# 📍Hito 2
 ### 🔎 Cambios estructurales
 -
 -
@@ -162,11 +162,11 @@ MIT
 ### 📤 Ejemplo de ejecucuión
 - Foto aquí
   
-### Dificultades encontradas
+### 💥 Dificultades encontradas
 -
 -
 -
 
-### Intrucciones de ejecución
+### 🚨 Intrucciones de ejecución
 -
 
