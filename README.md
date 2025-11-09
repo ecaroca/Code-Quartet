@@ -149,3 +149,24 @@ MIT
 - *Numerical Analysis (9na Edición) - Richard L. Burden y J. Douglas Faires* (este libro si bien sé encontró en español(7ma edición) no se veía muy bien, por lo tanto se utilizó esta versión en inglés)
   
 - *Programación en C: Metodología, algoritmos y estructura de datos - Luis Joyanes Aguilar y Ignacio Zahonero Martinez.*
+
+
+## 📍Hito 2
+### 🔎 Cambios estructurales
+-
+-
+-
+### ✍️ Descripción de las clases creadas
+-
+-
+### 📤 Ejemplo de ejecucuión
+- Foto aquí
+  
+### Dificultades encontradas
+-
+-
+-
+
+### Intrucciones de ejecución
+-
+
