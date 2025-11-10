@@ -159,7 +159,7 @@ MIT
 ### ✍️ Descripción de las clases creadas
 -
 -
-### 📤 Ejemplo de ejecucuión
+### 📤 Ejemplo de ejecución
 - Foto aquí
   
 ### 💥 Dificultades encontradas
