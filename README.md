@@ -159,17 +159,17 @@ MIT
 
 ### ✍️ Descripción de las clases creadas
 - las clases nuevas funcionan como las struct/funciones anteriormente usadas en la version del codigo en C
-- Calculator:Se encarga de las operaciones matemáticas básicas. Tiene métodos para suma, resta, multiplicación, división, potencias y raíces cuadradas.
+- **Calculator:** Se encarga de las operaciones matemáticas básicas. Tiene métodos para suma, resta, multiplicación, división, potencias y raíces cuadradas.
 
-- Functions: Parte principal del programa ya que Contiene todas las funciones matemáticas que podemos usar: seno, coseno, exponencial, logaritmo, y polinomios
+- **Functions:** Parte principal del programa ya que Contiene todas las funciones matemáticas que podemos usar: seno, coseno, exponencial, logaritmo, y polinomios
 
-- Calculus: Se especializa en cálculo avanzado. Calcula límites aproximando por ambos lados, derivadas usando métodos numéricos precisos, e integrales con la regla de Simpson.
+- **Calculus:** Se especializa en cálculo avanzado. Calcula límites aproximando por ambos lados, derivadas usando métodos numéricos precisos, e integrales con la regla de Simpson.
 
-- Equations: Resuelve problemas de búsqueda de raíces. Ofrece dos métodos: bisección para cuando sabemos que hay una raíz en un intervalo, y Newton
+- **Equations:** Resuelve problemas de búsqueda de raíces. Ofrece dos métodos: bisección para cuando sabemos que hay una raíz en un intervalo, y Newton
 
-- Vector y Matrix: Manejan el álgebra lineal. Matrix puede sumar y multiplicar matrices, calcular determinantes, inversas y resolver sistemas de ecuaciones y Vector trabaja con Matrix para representar soluciones.
+- **Vector y Matrix:** Manejan el álgebra lineal. Matrix puede sumar y multiplicar matrices, calcular determinantes, inversas y resolver sistemas de ecuaciones y Vector trabaja con Matrix para representar soluciones.
 
-- Plot:Genera gráficos en la terminal usando caracteres. Toma una función matemática y un rango, y crea una representación visual con ejes coordenados y la curva de la función.
+- **Plot:** Genera gráficos en la terminal usando caracteres. Toma una función matemática y un rango, y crea una representación visual con ejes coordenados y la curva de la función.
 
 ### 📤 Ejemplo de ejecucuión
 - Foto aquí
