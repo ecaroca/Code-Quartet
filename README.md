@@ -153,20 +153,22 @@ MIT
 
 # 📍Hito 2
 ### 🔎 Cambios estructurales
+- Traduccion de codigo C a C++
 - Cambio de funciones de C struct a objets en C++ 
 -
--
+
 ### ✍️ Descripción de las clases creadas
--
--
+- las clases nuevas funcionan como las struct/funciones anteriormente usadas en la version del codigo en C
+- como ejemplo la clase de calculator se encarga de funciones basicas. calculus de integradas, derivadas e integrales y asi
+
 ### 📤 Ejemplo de ejecucuión
 - Foto aquí
   
 ### 💥 Dificultades encontradas
--
+- El camnbio del uso de struct a clases dio problemas en su implementacion 
 -
 -
 
 ### 🚨 Intrucciones de ejecución
--
+-el compilador usado es "g++ std=gnu++17" usando makefiles
 
