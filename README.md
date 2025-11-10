@@ -153,7 +153,7 @@ MIT
 
 # 📍Hito 2
 ### 🔎 Cambios estructurales
--
+-Cambio de funciones de C struct a objets en C++ 
 -
 -
 ### ✍️ Descripción de las clases creadas
