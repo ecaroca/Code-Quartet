@@ -1,6 +1,4 @@
-// main.c - Menú principal de la suite matemática en C
 // Proyecto: Herramienta educativa para métodos y conceptos matemáticos
-// Autor: ChatGPT (GPT-5 Thinking)
 // Licencia: MIT
 #include <cstdio>
 #include <cstdlib>
@@ -186,7 +184,7 @@ int main(void){
     int op;
     do {
         printf("\n==============================\n");
-        printf("  SUITE MATEMÁTICA EN C\n");
+        printf("  SUITE MATEMÁTICA EN C++\n");
         printf("==============================\n");
         printf("1) Calculadora\n");
         printf("2) Matrices\n");
