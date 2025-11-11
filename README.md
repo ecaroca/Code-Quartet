@@ -173,7 +173,7 @@ También antes, teníamos funciones dispersas por todos lados pero ahora cada m�
 - **Plot:** Genera gráficos en la terminal usando caracteres. Toma una función matemática y un rango, y crea una representación visual con ejes coordenados y la curva de la función.
 
 ### 📤 Ejemplo de ejecucuión
-![Menú]([https://github.com/ecaroca/Code-Quartet/blob/main/ejecucion_hito2.webp])
+![ejemplo de ejecución](https://github.com/ecaroca/Code-Quartet/blob/main/ejecucion_hito2.webp)
   
 ### 💥 Dificultades encontradas
 - El cambio del uso de struct a clases dio problemas en su implementación.
