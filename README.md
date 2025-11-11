@@ -151,7 +151,7 @@ MIT
 - *Programación en C: Metodología, algoritmos y estructura de datos - Luis Joyanes Aguilar y Ignacio Zahonero Martinez.*
 
 
-# 📍Hito 2
+# 📍Hito 2: Considerar esta carpeta "Code-Quartet-class-c++"
 ### 🔎 Cambios estructurales
 - Traducción de cEdigo C a C++
 - Cambio de funciones de C struct a objets en C++ 
