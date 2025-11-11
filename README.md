@@ -176,8 +176,9 @@ MIT
   
 ### 💥 Dificultades encontradas
 - El cambio del uso de struct a clases dio problemas en su implementación 
--
--
+- Los headers cambiamos math.h por cmath, stdio.h por cstdio, ya que esto nos da acceso a las versiones C++ en el namespace std.
+También antes, teníamos funciones dispersas por todos lados pero ahora cada módulo es una clase con métodos relacionados, además el manejo de memoria es más automática.
+
 
 ### 🚨 Intrucciones de ejecución
 -el compilador usado es "g++ std=gnu++17" usando makefiles
