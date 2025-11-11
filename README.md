@@ -155,7 +155,8 @@ MIT
 ### 🔎 Cambios estructurales
 - Traduccion de codigo C a C++
 - Cambio de funciones de C struct a objets en C++ 
--
+- Los headers cambiamos math.h por cmath, stdio.h por cstdio, ya que esto nos da acceso a las versiones C++ en el namespace std.
+También antes, teníamos funciones dispersas por todos lados pero ahora cada módulo es una clase con métodos relacionados, además el manejo de memoria es más automática.
 
 ### ✍️ Descripción de las clases creadas
 - las clases nuevas funcionan como las struct/funciones anteriormente usadas en la version del codigo en C
@@ -175,9 +176,7 @@ MIT
 - Foto aquí
   
 ### 💥 Dificultades encontradas
-- El cambio del uso de struct a clases dio problemas en su implementación 
-- Los headers cambiamos math.h por cmath, stdio.h por cstdio, ya que esto nos da acceso a las versiones C++ en el namespace std.
-También antes, teníamos funciones dispersas por todos lados pero ahora cada módulo es una clase con métodos relacionados, además el manejo de memoria es más automática.
+- El cambio del uso de struct a clases dio problemas en su implementación.
 
 
 ### 🚨 Intrucciones de ejecución
