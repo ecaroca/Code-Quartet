@@ -180,5 +180,5 @@ También antes, teníamos funciones dispersas por todos lados pero ahora cada m�
 
 
 ### 🚨 Intrucciones de ejecución
--El compilador usado es "g++ std=gnu++17" usando makefiles
+-El compilador usado es "g++ std=gnu++17", para poder compilar el programa con normalidad se debe compilar con la carpeta suite_matematica_c
 
