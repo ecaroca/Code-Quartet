@@ -153,7 +153,7 @@ MIT
 
 # 📍Hito 2: Considerar esta carpeta "Code-Quartet-class-c++"
 ### 🔎 Cambios estructurales
-- Traducción de cEdigo C a C++
+- Traducción de código C a C++
 - Cambio de funciones de C struct a objets en C++ 
 - Los headers cambiamos math.h por cmath, stdio.h por cstdio, ya que esto nos da acceso a las versiones C++ en el namespace std.
 También antes, teníamos funciones dispersas por todos lados pero ahora cada módulo es una clase con métodos relacionados, además el manejo de memoria es más automática.
