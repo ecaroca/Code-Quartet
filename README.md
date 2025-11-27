@@ -185,19 +185,19 @@ También antes, teníamos funciones dispersas por todos lados pero ahora cada m�
 # 📍Hito 3: Interfaz gráfica
 - **Objetivo:** El objetivo de la creación esta interfaz es permitir que la utilización de nuestro programa sea más simple e intuitiva para el usuario, sin necesidad de tener concimientos previos de programación y/o uso de consola para acceder al código.
 
-## **Elementos Principales**
+## 📊 Elementos Principales
 -
 -
 -
 -
-## **Comportamiento Esperado**
+## 🗳️ Comportamiento Esperado
 -
-## **Ejemplos de Ejecución**
+## 💡 Ejemplos de Ejecución
 - [Foto aquí]
 
-## **Uso de Signals y Slots**
+## 🔎 Uso de Signals y Slots
 -
 -
 
-## **Principales Desafíos Durante este Hito 3**
+## 🚨 Principales Desafíos Durante este Hito 3
 - 
