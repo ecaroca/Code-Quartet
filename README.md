@@ -200,4 +200,4 @@ También antes, teníamos funciones dispersas por todos lados pero ahora cada m�
 -
 
 ## 🚨 Principales Desafíos Durante este Hito 3
-- 
+- En comparación con los Hitos anteriores, durante esta etapa del proyecto tuvimos mayores complicaciones, ya que de por sí, nos costaba más esta tema de QT y cómo lo implementaríamos en nuestro programa; el tiempo se nos redució con otros deberes académicos y la organización de nuestros roles se vió afectada por el retiro de un compañero. Si bien, la mayoría de estas razones no cuentan como justificación alguna, sí influyeron en nuestro desempeño final.
