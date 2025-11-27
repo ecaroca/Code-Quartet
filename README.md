@@ -194,7 +194,7 @@ También antes, teníamos funciones dispersas por todos lados pero ahora cada m�
 -
 ## 🎥 Video Demostración
 
-[![Ver video demostración](https://img.youtube.com/tm9Xz3S0MVE?si=jD4MrOSkUcSEUWlo.jpg)](https://www.youtube.com/watch?v=tm9Xz3S0MVE?si=jD4MrOSkUcSEUWlo)
+[![Ver video demostración](https://img.youtube.com/vi/tm9Xz3S0MVE?si=jD4MrOSkUcSEUWlo/0.jpg)](https://www.youtube.com/watch?v=tm9Xz3S0MVE?si=jD4MrOSkUcSEUWlo)
 
 ## 🔎 Uso de Signals y Slots
 -
