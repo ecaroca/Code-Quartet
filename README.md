@@ -183,7 +183,7 @@ También antes, teníamos funciones dispersas por todos lados pero ahora cada m�
 -El compilador usado es "g++ std=gnu++17", para poder compilar el programa con normalidad se debe compilar con la carpeta suite_matematica_c
 
 # 📍Hito 3: Interfaz gráfica
-- **Objetivo:** El objetivo de esta interfaz es permitir que la utilización de nuestro programa sea más simple e intuitiva para el usuario, sin necesidad de tener concimientos de programación y/o uso de consola para acceder al código.
+- **Objetivo:** El objetivo de la creación esta interfaz es permitir que la utilización de nuestro programa sea más simple e intuitiva para el usuario, sin necesidad de tener concimientos previos de programación y/o uso de consola para acceder al código.
 
 ## **Elementos Principales**
 -
