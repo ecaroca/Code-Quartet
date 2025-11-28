@@ -188,14 +188,17 @@ También antes, teníamos funciones dispersas por todos lados pero ahora cada m�
 ## 📊 Elementos Principales
 - 2 Casillas para las variables, donde el usuario puede ingresar los números
 - 1 Casilla para el resultado, que el ususario no puede modificar
+- 2 casillas para opciones exclusivas requeridas para las funciones matematicas de calculo
 - Botones de las operaciones disponibles(mencionadas anteriormente)
 - Botón donde el usuario pueda ver cómo funciona esta calculadora
 ## 🗳️ Comportamiento Esperado
-- El usuario ingresa 2 variables (números), con uno en cada casilla, luego de los botonones de abajo seleciona la función/operación a realizar con esos números.
-## Funciones exclusivas de la version QT: 
+- El usuario ingresa de 1 a 4 variables (números) dependiendo de la funcion matematica que se este usando, con cada uno en cada casilla (A, B, N y N# de Fx), luego de los botonones de abajo seleciona la función/operación a realizar con esos números y la casilla resultado deberia mostrar el resultado final (en caso de usar seno, coseno o sus derivadas, el resultado es entregado en radianes)
+## ❗ Funciones exclusivas de la version QT: 
 - Boton "Mas informacion" o "...?". este boton abre una ventana extra a un mini manual de uso, que explica como usar las variables en cada funcion matematica, ademas de los creditos de el programa.
 - Extra variables N y N# de F(x), al testear la calculadora llegamos al problema de como hacer que cada funcion disponible sea derivada en el menu. llegamos a una solucion que ya que limites e integrales necesitan una variable extra agregar esta variable como N y agregar una variable nueva (N# de F(x)) para que al usar la opcion de limite/derivada/integral se pueda escoger una de las funciones trigonometricas/algebraicas ya disponibles.
-## Limitaciones del programa: las variables B,N y N# de Fx no son usadas en cada funcion matematica, las funciones seno, coseno y sus derivadas son entregadas en radianes.
+## Limitaciones del programa:
+- las variables B,N y N# de Fx no son usadas en cada funcion matematica
+- las funciones seno, coseno y sus derivadas son entregadas en radianes.
 
 ## 🎥 Video Demostración
 
@@ -207,5 +210,5 @@ También antes, teníamos funciones dispersas por todos lados pero ahora cada m�
 
 ## 🚨 Principales Desafíos Durante este Hito 3
 - En comparación con los Hitos anteriores, durante esta etapa del proyecto tuvimos mayores complicaciones, ya que de por sí, nos costaba más esta tema de QT y cómo lo implementaríamos en nuestro programa; el tiempo se nos redució con otros deberes académicos y la organización de nuestros roles se vió afectada por el retiro de un compañero. Si bien, la mayoría de estas razones no cuentan como justificación alguna, sí influyeron en nuestro desempeño final.
-- Al testear la calculadora llegamos al problema de como hacer que cada funcion disponible sea compatible con las opciones de limite/derivada/integral  
-
+- Al testear la calculadora llegamos al problema de como hacer que cada funcion disponible sea compatible con las opciones de limite/derivada/integral
+- Al igual que en la traduccion de el programa de C a C++. hay funciones que se vuelven obsoletas con la introduccion de botones y ranuras de variables, por lo que no todas las funciones de los archivos ".h" o ".cpp" son usadas.
