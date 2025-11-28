@@ -186,12 +186,12 @@ También antes, teníamos funciones dispersas por todos lados pero ahora cada m�
 - **Objetivo:** El objetivo de la creación esta interfaz es permitir que la utilización de nuestro programa sea más simple e intuitiva para el usuario, sin necesidad de tener concimientos previos de programación y/o uso de consola para acceder al código.
 
 ## 📊 Elementos Principales
--
--
--
--
+- 2 Casillas para las variables, donde el usuario puede ingresar los números
+- 1 Casilla para el resultado, que el ususario no puede modificar
+- Botones de las operaciones disponibles(mencionadas anteriormente)
+- Botón donde el usuario pueda ver cómo funciona esta calculadora
 ## 🗳️ Comportamiento Esperado
--
+- El usuario ingresa 2 variables (números), con uno en cada casilla, luego de los botonones de abajo seleciona la función/operación a realizar con esos números.
 ## 🎥 Video Demostración
 
 [![Ver video demostración](https://img.youtube.com/vi/tm9Xz3S0MVE/0.jpg)](https://youtu.be/tm9Xz3S0MVE)
